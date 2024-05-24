@@ -8,7 +8,7 @@ return {
 --// Buyed When the Update with Days
 "8B2909D4-6901-4E40-A4BF-E3D411F4BAEC", -- @sigmahook, days: 1
 "75658024-AFD4-4D4D-9C0C-C03A76C0AD67"-- @darksoul, days: inf 
-  --// server manager
-  "C1E96DA6-82D6-4927-8CE7-B5DDC8545422"-- ntfofficial days:
-  --// Buyed when the Update with Days
+"B9BA75D1-FA28-4EA7-9350-789E959703AA" -- @polo, days: inf
+--// Server Manager
+"C1E96DA6-82D6-4927-8CE7-B5DDC8545422"-- @ntfofficial days:
 }
