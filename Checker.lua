@@ -7,8 +7,9 @@ return {
 "6DB0486F-B6B6-4ECB-B1C7-8AD9C8675C69", -- @cheese, days: inf
 --// Buyed When the Update with Days
 "8B2909D4-6901-4E40-A4BF-E3D411F4BAEC", -- @sigmahook, days: 1
-"75658024-AFD4-4D4D-9C0C-C03A76C0AD67"-- @darksoul, days: inf 
-"B9BA75D1-FA28-4EA7-9350-789E959703AA" -- @polo, days: inf
+"75658024-AFD4-4D4D-9C0C-C03A76C0AD67", -- @darksoul, days: inf 
+"B9BA75D1-FA28-4EA7-9350-789E959703AA", -- @polo, days: inf
 --// Server Manager
-"C1E96DA6-82D6-4927-8CE7-B5DDC8545422"-- @ntfofficial days:
+"C1E96DA6-82D6-4927-8CE7-B5DDC8545422", -- @ntfofficial days:
+"78A2E3F9-7971-45DF-B926-FA7EA6565C83", -- @fizz
 }
