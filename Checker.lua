@@ -6,5 +6,5 @@ return {
 "1A02E3D7-FA19-4498-8334-D31FFFADC9F0", -- @rreesse, days: inf
 "6DB0486F-B6B6-4ECB-B1C7-8AD9C8675C69", -- @cheese, days: inf
 --// Buyed When the Update with Days
-  
+"8B2909D4-6901-4E40-A4BF-E3D411F4BAEC", -- @sigmahook, days: 1
 }
