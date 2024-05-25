@@ -12,6 +12,6 @@ return {
 --// Server Manager
 "C1E96DA6-82D6-4927-8CE7-B5DDC8545422", -- @ntfofficial days:
 --// Developer
-"D999B350-B524-4FB7-A7D6-C8C8F72CFCD8", -- @arteesso, days: inf
+"D999B350-B524-4FB7-A7D6-C8C8F72CFCD8", -- @arteesso
 "78A2E3F9-7971-45DF-B926-FA7EA6565C83", -- @fizz
 }
